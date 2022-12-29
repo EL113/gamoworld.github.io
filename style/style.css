@@ -1,0 +1,19 @@
+#content {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.caption {
+  font-style: italic;
+  font-size: 16px;
+  line-height: 1.3;
+  text-align: center;
+}
+
+.imgcontainer {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 520px;
+}
