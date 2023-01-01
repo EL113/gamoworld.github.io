@@ -2,6 +2,8 @@ body {
     font-family: Baskerville, "Times New Roman", SimSun, serif;
     font-size: 22px;
     line-height: 1.8;
+    background: #e8e6e3;
+    background-image: url("../image/background.png");
 }
 
 h1 {
